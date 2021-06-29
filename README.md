@@ -1,3 +1,5 @@
+Revamped slider coming soon.
+
 # page-slider-js
 A page slider in vanilla JS. Made famous by Apple.com a good while ago. I made this because I couldn't find a decent one in pure vanilla javascript. Oh, it's also responsive.
 
